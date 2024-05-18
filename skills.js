@@ -1,4 +1,4 @@
-// Determine whether two numbers are relatively prime
+// Determine whether two numbers var1, var2 are relatively prime
 calculateNumbers = function (var1, var2) {
     var gcd = function(a, b) {
         if (b < 0.0000001) return a;
