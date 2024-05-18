@@ -8,4 +8,6 @@
             ]
         }
     }
+    ,
+    "postCreateCommand": "npm install --save-dev jest"
 }
